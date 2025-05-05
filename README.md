@@ -1,17 +1,40 @@
-<h1>Hi, I'm Bertand <br/>
+<h1 align="center">Hi there, I'm Bertrand 👋</h1>
+<p align="center">
+  <i>A passionate Backend Developer & Future Cybersecurity Expert | ALX SE Learner</i>
+</p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
-- [Active Directory Home Lab](https://github.com/Bertrand1738/ActiveDirectoryLab)
--  [Hello world](https://github.com/Bertrand1738/ActiveDirectoryLab)
+### 🚀 About Me
 
-<h2>:memo: Certifications </h2>
+Hello! I'm a Backend Web Development student at ALX, driven by a mission to master technology and solve real-world problems through software. I started my journey in software engineering out of a deep passion for building scalable solutions that matter — especially in healthcare systems and digital infrastructure.
 
-- [TutorialL  Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- 🔭 I’m currently working on backend systems and APIs
+- 🌱 I’m learning full-stack web development, mobile development, and cybersecurity
+- 💡 I believe in using tech to build inclusive, secure, and accessible platforms
+- 👯 I’m looking to collaborate on meaningful real-life projects
+- 💬 Ask me about Python, JavaScript, SQL, Java, mobile dev, and cybersecurity
+- 📫 How to reach me: manirakizabertrand290@gmail.com | www.linkedin.com/in/manirakiza-bertrand
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [TutorialL  Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+### 🛠️ Tech Stack & Tools
+
+```html
+💻 Languages:
+Python | JavaScript (Node.js, Express) | Java | SQL
+
+🧰 Tools & Frameworks I am learning:
+Django | Flask | React | PostgreSQL | Docker | Git | Bash
+
+📱 Mobile Development:
+Kotlin | Android Studio
+
+🔐 Cybersecurity:
+Learning ethical hacking fundamentals, secure coding, and network protocols
+
+🧠 Interests:
+Cloud computing | Healthcare tech | Backend architecture | Open-source contributions
 
 
 <h2> 🤳 Connect with me:</h2>
