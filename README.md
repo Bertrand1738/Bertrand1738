@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-Hello! I'm a Backend Web Development student at ALX, driven by a mission to master technology and solve real-world problems through software. I started my journey in software engineering out of a deep passion for building scalable solutions that matter — especially in healthcare systems and digital infrastructure.
+Hello! I'm a Backend Web Developer driven by a mission to master technology and solve real-world problems through software. I began my journey in software engineering driven by a deep passion for building scalable solutions that matter — particularly in healthcare systems and digital infrastructure.
 
 - 🔭 I’m currently working on backend systems and APIs
 - 🌱 I’m learning full-stack web development, mobile development, and cybersecurity
